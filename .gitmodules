@@ -1,0 +1,6 @@
+[submodule "DS-01-Customer-Churn-Intelligence"]
+	path = DS-01-Customer-Churn-Intelligence
+	url = https://github.com/ayobamiiiii/customer-churn-intelligence.git
+[submodule "DS-02-Retail-Demand-Forecasting"]
+	path = DS-02-Retail-Demand-Forecasting
+	url = https://github.com/ayobamiiiii/DS-02-Retail-Demand-Forecasting-Inventory-Optimization.git
